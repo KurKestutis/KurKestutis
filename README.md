@@ -1,8 +1,12 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KurKestutis&layout=compact)](https://github.com/KurKestutis/github-readme-stats)
+<p style="pointer-events: none;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KurKestutis&layout=compact" alt="top languages" style="pointer-events: none;"/>
+</p>
 
-<img  src="https://komarev.com/ghpvc/?username=KurKestutis" alt="counter" style="pointer-events: none;" />
+<p style="pointer-events: none;">
+    <img align="center" src="https://komarev.com/ghpvc/?username=KurKestutis" alt="counter" style="pointer-events: none;"/>
+</p>
 
 <!--
 **KurKestutis/KurKestutis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
